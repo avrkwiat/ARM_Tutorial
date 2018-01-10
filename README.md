@@ -22,7 +22,9 @@ Kurs video ARM dla procesorów z serii STM32.
   https://www.youtube.com/watch?v=WBOB9PZ4Ndk&index=10&list=PLZQKTfr7_vvQ32WG-JeBtw8Uq6G39n3mY
 9) Programowanie ARM (Konfiguracja zegara pod SysTick, USB, ETH) #9
   https://www.youtube.com/watch?v=KSznLCSgEsg&index=11&list=PLZQKTfr7_vvQ32WG-JeBtw8Uq6G39n3mY
+
 Nucleo:
+
 0) Nucleo (wstęp, wgrywanie kodu, pobieranie przykładów) #0
   https://www.youtube.com/watch?v=e9psTjoYA4E&index=13&list=PLZQKTfr7_vvQ32WG-JeBtw8Uq6G39n3mY
 1) Nucleo (2xUart, RS485, interrupt UART) #1
